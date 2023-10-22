@@ -1,0 +1,28 @@
+.col-6 {
+    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-left: 30px;
+    font-size: 30px;
+}
+
+.google-input {
+    border-radius: 25px;
+}
+
+.lava-widget {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.media-block {
+    padding-top: 30px;
+}
+
+.list-group-item {
+    font-size: 13px;
+}
+
+.list-group-item.active {
+    background-color: #321fb8;
+    border-color: #321fb8;
+}
